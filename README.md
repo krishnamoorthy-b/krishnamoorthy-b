@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I'm Krishnamoorthy B 👋
 
-<!--
-**krishnamoorthy-b/krishnamoorthy-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Java Full Stack Developer with 4.9 years of experience in web application development and application architecture.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Java
+- **Front-end:** Angular
+- **Back-end:** Spring Boot, Hibernate
+- **Database:** MySQL, MongoDB
+- **Version Control:** Git
+- **Build Tools:** Gradle
+- **Other Tools:** Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Project 1 Name](link-to-project1) - Brief description of the project.
+- [Project 2 Name](link-to-project2) - Brief description of the project.
+
+## 📫 Contact Me
+- LinkedIn: [krishnamoorthy-bs](www.linkedin.com/in/krishnamoorthy-bs)
+- Email: krishna192168@gmail.com
+
+## 📊 GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnamoorthy-b&show_icons=true&count_private=true&hide=contribs)](https://github.com/krishnamoorthy-b)
+
+## 🏆 Certifications
+- [Java SE 8 Programmer 1 (1Z0-808)](link-to-certification1)
+
+## 👨‍💻 Open Source Contributions
+I actively contribute to open-source projects, and you can find my work on my [GitHub profile](https://github.com/krishnamoorthy-b).
