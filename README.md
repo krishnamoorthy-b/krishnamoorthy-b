@@ -13,8 +13,7 @@ Java Full Stack Developer with 4.9 years of experience in web application develo
 - **Other Tools:** Jenkins
 
 ## 🚀 Projects
-- [Project 1 Name](link-to-project1) - Brief description of the project.
-- [Project 2 Name](link-to-project2) - Brief description of the project.
+- Smart Irrigation
 
 ## 📫 Contact Me
 - LinkedIn: [krishnamoorthy-bs](www.linkedin.com/in/krishnamoorthy-bs)
